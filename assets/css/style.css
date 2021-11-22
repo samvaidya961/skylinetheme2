@@ -17,8 +17,8 @@ a:hover {
 
 :root {
   --blue: #923772;
-  --grey: #ededed;
-  --orange: #6d6d6d;
+  --grey: #EDF8FF;
+  --orange: #528ff0;
 }
 .breadcrumb a:hover {
   color: var(--blue);
@@ -1923,7 +1923,7 @@ hr {
   /* searchbar */
   .searchbargrp {
     width: 100%;
-    background-color: var(--blue);
+    /* background-color: var(--blue); */
     padding: 7px 0px 0px 0px;
   }
 
